@@ -1,0 +1,23 @@
+{
+  "title": "Lovart 产品拆解",
+  "duration_seconds": 9,
+  "fps": 8,
+  "scenes": [
+    {
+      "scene": "用户旅程",
+      "source": "lovart-product-teardown.html",
+      "type": "repository content walkthrough"
+    },
+    {
+      "scene": "九层架构",
+      "source": "lovart-product-teardown.html",
+      "type": "repository content walkthrough"
+    },
+    {
+      "scene": "模型与编排",
+      "source": "lovart-product-teardown.html",
+      "type": "repository content walkthrough"
+    }
+  ],
+  "note": "Existing repository material; no live model calls or production availability claim."
+}
