@@ -1,0 +1,38 @@
+{
+  "title": "Lovart 产品拆解",
+  "mode": "真实报告页面 · 导航操作",
+  "notes": "仓库 HTML 报告的实际导航画面；非 Lovart 官方应用录屏。",
+  "source": "work/demo-production/captures/lovart",
+  "capture_date": "2026-10-10",
+  "editorial_effects": [
+    "browser frame",
+    "startup reveal",
+    "camera focus",
+    "click cue",
+    "captions",
+    "loop"
+  ],
+  "timing": "剪辑后的展示节奏，不代表真实处理耗时",
+  "steps": [
+    {
+      "capture": "01-overview.png",
+      "action": "打开报告",
+      "caption": "浏览产品定位与取证结论"
+    },
+    {
+      "capture": "02-journey.png",
+      "action": "查看用户旅程",
+      "caption": "点击顶部导航，定位完整体验路径"
+    },
+    {
+      "capture": "03-architecture.png",
+      "action": "切换九层架构",
+      "caption": "从产品表面深入编排与数据层"
+    },
+    {
+      "capture": "04-evidence.png",
+      "action": "查阅证据图库",
+      "caption": "核对报告中的截图与结论"
+    }
+  ]
+}
