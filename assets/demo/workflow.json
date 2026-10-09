@@ -1,0 +1,22 @@
+{
+  "title": "Lovart 产品拆解",
+  "type": "操作流程示意，非实机录屏",
+  "steps": [
+    {
+      "action": "阅读案例总览",
+      "description": "先了解案例与结论边界"
+    },
+    {
+      "action": "查看用户旅程",
+      "description": "按阶段检查关键体验"
+    },
+    {
+      "action": "分析九层架构",
+      "description": "理解编排和模型路由"
+    },
+    {
+      "action": "核对证据与优化",
+      "description": "对照截图与优化蓝图"
+    }
+  ]
+}
